@@ -7,7 +7,7 @@ import Main from "../components/Main";
 
 const Home = () => {
   return (
-    <div className="relative">
+    <div className="relative overflow-hidden">
       <Navbar />
 
       <Background/>
