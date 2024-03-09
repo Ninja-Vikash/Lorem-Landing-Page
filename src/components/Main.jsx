@@ -15,7 +15,7 @@ const Main = () => {
         </h1>
       </div>
 
-      <Button />
+      <Button text="LEARN MORE" />
 
       <Features/>
     </div>
